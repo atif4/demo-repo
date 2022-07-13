@@ -1,0 +1,18 @@
+Numbers,Country/Region,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovered,Deaths / 100 Cases,Recovered / 100 Cases,Deaths / 100 Recovered,Confirmed last week,1 week change,1 week % increase,WHO Region
+19,Bhutan,99,0,86,13,4,0,1,0.0,86.87,0.0,90,9,10.0,South-East Asia
+30,Cambodia,226,0,147,79,1,0,4,0.0,65.04,0.0,171,55,32.16,Western Pacific
+49,Dominica,18,0,18,0,0,0,0,0.0,100.0,0.0,18,0,0.0,Americas
+55,Eritrea,265,0,191,74,2,0,2,0.0,72.08,0.0,251,14,5.58,Africa
+59,Fiji,27,0,18,9,0,0,0,0.0,66.67,0.0,27,0,0.0,Western Pacific
+68,Greenland,14,0,13,1,1,0,0,0.0,92.86,0.0,13,1,7.69,Europe
+69,Grenada,23,0,23,0,0,0,0,0.0,100.0,0.0,23,0,0.0,Americas
+75,Holy See,12,0,12,0,0,0,0,0.0,100.0,0.0,12,0,0.0,Europe
+94,Laos,20,0,19,1,0,0,0,0.0,95.0,0.0,19,1,5.26,Western Pacific
+114,Mongolia,289,0,222,67,1,0,4,0.0,76.82,0.0,287,2,0.7,Western Pacific
+130,Papua New Guinea,62,0,11,51,0,0,0,0.0,17.74,0.0,19,43,226.32,Western Pacific
+140,Saint Kitts and Nevis,17,0,15,2,0,0,0,0.0,88.24,0.0,17,0,0.0,Americas
+141,Saint Lucia,24,0,22,2,0,0,0,0.0,91.67,0.0,23,1,4.35,Americas
+142,Saint Vincent and the Grenadines,52,0,39,13,0,0,0,0.0,75.0,0.0,50,2,4.0,Americas
+148,Seychelles,114,0,39,75,0,0,0,0.0,34.21,0.0,108,6,5.56,Africa
+168,Timor-Leste,24,0,0,24,0,0,0,0.0,0.0,0.0,24,0,0.0,South-East Asia
+181,Vietnam,431,0,365,66,11,0,0,0.0,84.69,0.0,384,47,12.24,Western Pacific
